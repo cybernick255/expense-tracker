@@ -25,3 +25,14 @@ This app is designed to make personal financial management straightforward, help
 - SwiftUI
 - Core Data
 - Charts Framework
+
+# Test It Out
+
+1. Launch the app.
+2. Tap '+' on the top right.
+3. Fill in the details of the transaction, then press 'Save' when done.
+4. Quit the app & relaunch it. You'll see the data persists.
+5. Create a few more transactions. The chart will update accordingly.
+6. Tap the chart to see the amount of how much was spent in each category.
+7. Swipe left on one of the transactions in the list to remove it.
+8. Tap the 'Delete All Transactions' button & confirm in the alert to remove all transactions.
